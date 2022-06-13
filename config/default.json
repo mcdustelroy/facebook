@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dustin:dustin@facebook.f83i8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
