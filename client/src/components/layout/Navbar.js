@@ -53,7 +53,7 @@ const Navbar = () => {
 			<ul>
 				<Fragment>
 					<li>
-						Hello { (user && user.info && user.info.name) || (user && user.name) }
+						Hello { (user && user.info && user.info.name) || (user && user.name) } !
 					</li>
 				</Fragment>
 			</ul>}
