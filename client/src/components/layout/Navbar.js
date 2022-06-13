@@ -26,7 +26,7 @@ const Navbar = () => {
 			</li>
 			<li>			
 				<Link to="/login" onClick={onLogout}>
-					Logout?
+					Logout
 				</Link>	
 			</li>
 		</Fragment>
